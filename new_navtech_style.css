@@ -27,7 +27,7 @@ body {
 /* Hero Section Styling */
 .up-content {
     background: linear-gradient(to bottom, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.491)),
-                url("/new_navtech_images/new_navtech_CoverImage_Christmas.png");
+                url("/new_navtech_images/new_navtech_CoverImage_Christmas.jpg");
     /* height: auto;
     width: auto; */
     /* padding-top: 20px;
@@ -57,7 +57,7 @@ body {
 @media (min-width: 320px) {
     .up-content {
         background: linear-gradient(to bottom, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.491)),
-                    url("/new_navtech_images/new_navtech_CoverImage_Christmas.png");
+                    url("/new_navtech_images/new_navtech_CoverImage_Christmas.jpg");
         background-size: 55vh;
         background-position: center;
         background-repeat: no-repeat;
